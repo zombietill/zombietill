@@ -2,4 +2,10 @@
 
 
 
-im a awkward person so try to be patient with me !
+
+
+
+ɪᴍ ᴀ ᴀᴡᴋᴡᴀʀᴅ ᴘᴇʀꜱᴏɴ ꜱᴏ ᴘʟᴇᴀꜱᴇ ᴛʀʏ ᴛᴏ ʙᴇ ᴘᴀᴛɪᴇɴᴛ ᴡɪᴛʜ ᴍᴇ !
+
+
+
