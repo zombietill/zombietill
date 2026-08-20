@@ -8,4 +8,8 @@
 ɪᴍ ᴀ ᴀᴡᴋᴡᴀʀᴅ ᴘᴇʀꜱᴏɴ ꜱᴏ ᴘʟᴇᴀꜱᴇ ᴛʀʏ ᴛᴏ ʙᴇ ᴘᴀᴛɪᴇɴᴛ ᴡɪᴛʜ ᴍᴇ !
 
 
+.
+!
+.
 
+<img width="338" height="374" alt="image" src="https://github.com/user-attachments/assets/03c1c011-b6d8-4c76-9343-bb93b1bb0cb0" />
