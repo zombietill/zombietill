@@ -1,4 +1,5 @@
-<img width="1280" height="244" alt="image" src="https://github.com/user-attachments/assets/13bec6c5-a40f-4533-b0d0-dc9181ff0d1d" />
+<img width="2048" height="913" alt="image" src="https://github.com/user-attachments/assets/5df559b2-fbad-4e1d-9af0-279fe452c7b6" />
+
 ・❥・
 
 <img width="355" height="450" alt="image" src="https://github.com/user-attachments/assets/10efe4e2-b2fb-4682-93ef-880db937a507" />        ・❥・       .   ・❥・     <img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/b45fcc52-c2ac-4565-ba0e-6b4f40f82646" />
