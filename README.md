@@ -26,6 +26,7 @@
 
   <p align="center"><img width="128" height="136" alt="image" src="https://github.com/user-attachments/assets/2e698ede-a8f3-4469-8d55-54670ea9cc02"></p>
 
+<img width="2048" height="726" alt="image" src="https://github.com/user-attachments/assets/9e31d960-6b5e-4116-86ab-15e4f32d1b08" />
 
 
 
