@@ -3,7 +3,7 @@
 ・❥・.            .      ${\textsf{\color{#828282}"ᵂᵉ ʷᵉʳᵉ ᶠⁱⁿᵉ, ᴵ ᵍᵘᵉˢˢ. ᵀʰᵃᵗ'ˢ ᵃᵇᵒᵘᵗ ⁱᵗ."}}$            ・❥・
 .                  ・❥・         .    <blockquote>
                                                     <blockquote>
-                              ・❥・ .   <blockquote>       ${\textsf{\color{#b5b5b5}"ᴰᵒ ʸᵒᵘ ᵇᵉˡⁱᵉᵛᵉ ⁱⁿ ᴳᵒᵈ?"}}$ .      ・❥・ .
+                              ・❥・ . ・❥・ .・❥・ .・❥・ .   <blockquote>       ${\textsf{\color{#b5b5b5}"ᴰᵒ ʸᵒᵘ ᵇᵉˡⁱᵉᵛᵉ ⁱⁿ ᴳᵒᵈ?"}}$ .      ・❥・ .
                                                               
 <img width="355" height="450" alt="image" src="https://github.com/user-attachments/assets/10efe4e2-b2fb-4682-93ef-880db937a507" />        ・❥・       .   ・❥・     <img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/b45fcc52-c2ac-4565-ba0e-6b4f40f82646" />
 
