@@ -20,7 +20,7 @@
 
 ・❥・.            .      ${\textsf{\color{#414141}“Wₕy ₐᵣₑ yₒᵤ ₛₜₐᵣᵢₙg ₐₜ ₘₑ?”}}$            ・❥・
 .                  ・❥・         .
-<p align="right">${\textsf{\color{#4E1B1B}“ᴵᵗ ᵐᵉᵃⁿˢ ʸᵒᵘ'ʳᵉ ᵃ ᶠʳⁱᵉⁿᵈˡᵉˢˢ ⁱᵈⁱᵒᵗ. ᴵᵈⁱᵒᵗ.”}}$<p>
+<p align="right">${\textsf{\color{#4E1B1B}“ɪᴛ ᴍᴇᴀɴꜱ ʏᴏᴜ'ʀᴇ ᴀ ꜰʀɪᴇɴᴅʟᴇꜱꜱ ɪᴅɪᴏᴛ. ɪᴅɪᴏᴛ.”}}$<p>
 
 <img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/dd8f96f2-1995-4fe2-864b-ebe2dfae7d55">         ・❥・       .   ・❥・         ・❥・      <img width="355" height="450" alt="image" src="https://github.com/user-attachments/assets/6e694d66-53b9-4f72-95b8-1c382e3b64c3">
 
