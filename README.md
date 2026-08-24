@@ -18,7 +18,7 @@
 <img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/c04fdb09-606d-4837-ba37-4811295eb96c" />
 <img width="1200" height="170" alt="image" src="https://github.com/user-attachments/assets/3bc569a7-4877-4561-a82c-e212bb968d8e" />
 
-・❥・.            .      ${\textsf{\color{#414141}“Wₕy ₐᵣₑ yₒᵤ ₛₜₐᵣᵢₙg ₐₜ ₘₑ?”}}$            ・❥・
+・❥・.            .      ${\textsf{\color{#414141}"ᵂʰʸ ᵃʳᵉ ʸᵒᵘ ˢᵗᵃʳⁱⁿᵍ ᵃᵗ ᵐᵉ?"}}$            ・❥・
 .                  ・❥・         .
 <p align="right">${\textsf{\color{#4E1B1B}“ɪᴛ ᴍᴇᴀɴꜱ ʏᴏᴜ'ʀᴇ ᴀ ꜰʀɪᴇɴᴅʟᴇꜱꜱ ɪᴅɪᴏᴛ. ɪᴅɪᴏᴛ.”}}$<p>
 
