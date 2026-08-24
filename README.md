@@ -16,6 +16,8 @@
 ɪᴍ ᴀ ᴀᴡᴋᴡᴀʀᴅ ᴘᴇʀꜱᴏɴ ꜱᴏ ᴘʟᴇᴀꜱᴇ ᴛʀʏ ᴛᴏ ʙᴇ ᴘᴀᴛɪᴇɴᴛ ᴡɪᴛʜ ᴍᴇ !
 
 <img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/c04fdb09-606d-4837-ba37-4811295eb96c" />
+<p align="right">${\textsf{\color{#6a2828}" ᵂᵒⁿ'ᵗ ʸᵒᵘ ᵇᵉ ᵐʸ ᵖʳᵒᵐ qᵘᵉᵉⁿ? "}}$<p>
+  
 <img width="1200" height="170" alt="image" src="https://github.com/user-attachments/assets/3bc569a7-4877-4561-a82c-e212bb968d8e" />
 
 ・❥・.            .      ${\textsf{\color{#4f4f4f}"ᵂʰʸ ᵃʳᵉ ʸᵒᵘ ˢᵗᵃʳⁱⁿᵍ ᵃᵗ ᵐᵉ?"}}$            ・❥・
