@@ -16,6 +16,7 @@
 ɪᴍ ᴀ ᴀᴡᴋᴡᴀʀᴅ ᴘᴇʀꜱᴏɴ ꜱᴏ ᴘʟᴇᴀꜱᴇ ᴛʀʏ ᴛᴏ ʙᴇ ᴘᴀᴛɪᴇɴᴛ ᴡɪᴛʜ ᴍᴇ !
 
 <img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/c04fdb09-606d-4837-ba37-4811295eb96c" />
+<img width="1200" height="170" alt="image" src="https://github.com/user-attachments/assets/3bc569a7-4877-4561-a82c-e212bb968d8e" />
 
 <img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/dd8f96f2-1995-4fe2-864b-ebe2dfae7d55">         ・❥・       .   ・❥・    <img width="355" height="450" alt="image" src="https://github.com/user-attachments/assets/6e694d66-53b9-4f72-95b8-1c382e3b64c3">
 
