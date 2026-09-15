@@ -7,7 +7,7 @@
 <img width="355" height="450" alt="image" src="https://github.com/user-attachments/assets/10efe4e2-b2fb-4682-93ef-880db937a507" />        ・❥・       .   ・❥・     <img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/b45fcc52-c2ac-4565-ba0e-6b4f40f82646" />
 .
 
-<p align="center"><img width="128" height="136" alt="image" src="https://github.com/user-attachments/assets/1029fe9b-2b52-46fa-84dc-8616d03a8813"></p>
+<p align="center"><img alt="image" src="https://github.com/user-attachments/assets/1029fe9b-2b52-46fa-84dc-8616d03a8813"></p>
 
 
   !
@@ -27,9 +27,9 @@
 .
 <img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/dd8f96f2-1995-4fe2-864b-ebe2dfae7d55">         ・❥・       .   ・❥・         ・❥・      <img width="355" height="450" alt="image" src="https://github.com/user-attachments/assets/6e694d66-53b9-4f72-95b8-1c382e3b64c3">
 
-  <p align="center"><img width="128" height="136" alt="image" src="https://github.com/user-attachments/assets/2e698ede-a8f3-4469-8d55-54670ea9cc02"></p>
+  <p align="center"><img alt="image" src="https://github.com/user-attachments/assets/2e698ede-a8f3-4469-8d55-54670ea9cc02"></p>
 
-<img width="2048" height="726" alt="image" src="https://github.com/user-attachments/assets/9e31d960-6b5e-4116-86ab-15e4f32d1b08" />
+<img alt="image" src="https://github.com/user-attachments/assets/9e31d960-6b5e-4116-86ab-15e4f32d1b08" />
 
 
 
