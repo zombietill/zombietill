@@ -1,4 +1,4 @@
-<img width="2048" height="589" alt="image" src="https://github.com/user-attachments/assets/5df559b2-fbad-4e1d-9af0-279fe452c7b6" />
+<img alt="image" src="https://github.com/user-attachments/assets/5df559b2-fbad-4e1d-9af0-279fe452c7b6" />
 
 ・❥・.            .      ${\textsf{\color{#828282}"ᵂᵉ ʷᵉʳᵉ ᶠⁱⁿᵉ, ᴵ ᵍᵘᵉˢˢ. ᵀʰᵃᵗ'ˢ ᵃᵇᵒᵘᵗ ⁱᵗ."}}$            ・❥・
 .                  ・❥・         .    
