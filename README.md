@@ -13,7 +13,8 @@ ${\textsf{\color{#5a3450}ᵛⁱˣ/ᵛⁱˣˣⁱᵉ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ˢ�
 <p align="center">  
 ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 </p>
-<img width="2048" alt="image" src="https://github.com/user-attachments/assets/9ea29af2-01ff-478f-82ad-40698ee78418" />
+<img width="2048" alt="de5fedc0-bb48-4c89-93e7-b75416848823" src="https://github.com/user-attachments/assets/1c204890-92f0-40d7-9aa4-75863f2279ee" />
+
 <img width="1280" alt="bace57ed-5068-46bc-a874-84defb4273c0" src="https://github.com/user-attachments/assets/6eba84f4-3362-46b9-893c-a39be7c37b90" />
 
 <p align="left">
