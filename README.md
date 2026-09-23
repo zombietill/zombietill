@@ -13,4 +13,4 @@ ${\textsf{\color{#5a3450}ᵛⁱˣ/ᵛⁱˣˣⁱᵉ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ˢ�
 ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 </p>
 <img width="2048" alt="image" src="https://github.com/user-attachments/assets/9ea29af2-01ff-478f-82ad-40698ee78418" />
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/3083203f-8efa-4b7c-b06b-d849bd079041" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3083203f-8efa-4b7c-b06b-d849bd079041" />
