@@ -18,7 +18,9 @@ ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 <img width="248" alt="a173b98a-1bf0-496d-9ec3-71a8033ba9ae (1)" src="https://github.com/user-attachments/assets/c7ee0b85-2034-4569-b020-174b8229e29d" />
 </p>
 
-
+<p align="right">
+<img width="448" alt="2add26be-70ba-436b-8210-fd52db2b006c" src="https://github.com/user-attachments/assets/b747bf68-1455-4cc5-addf-62ea57d6e1fb" />
+</p>
 
 
 
