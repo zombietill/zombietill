@@ -19,7 +19,7 @@ ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 </p>
 
 <p align="right">
-<img width="448" alt="2add26be-70ba-436b-8210-fd52db2b006c" src="https://github.com/user-attachments/assets/b747bf68-1455-4cc5-addf-62ea57d6e1fb" />
+<img width="228" alt="2b6cb5c2-0c5b-4dd1-9c01-822cb8294fb0" src="https://github.com/user-attachments/assets/b33c05c1-9ddf-433f-9c15-a6625e16a6ad" />
 </p>
 
 
