@@ -4,6 +4,9 @@
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2c5cf316-7b31-4650-b388-4764b31fc950" />
 </p>
 <p align="center">
+${\textsf{\color{#422748}" ᵗʰᵃⁿᵏ ʸᵒᵘ ᶠᵒʳ ᵇᵉⁱⁿᵍ ᵗʰᵉ ᵛⁱᶜᵗⁱᵐ ᵒᶠ ᵐʸ ˢʰᵃˡˡᵒʷ ᵉᵐᵒᵗⁱᵒⁿˢ. "}}$
+</p>
+<p align="center">
 ${\textsf{\color{#5a3450}ᵛⁱˣ/ᵛⁱˣˣⁱᵉ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ˢⁱᵈ/ᵏᵃⁱ}}$
 </p>
 <p align="center">
