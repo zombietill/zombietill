@@ -5,5 +5,5 @@
 </p>
 <img width="2048" alt="image" src="https://github.com/user-attachments/assets/9ea29af2-01ff-478f-82ad-40698ee78418" />
 <p align="center">
-${\textsf{\color{#828282}"hiiii test"}}$
+${\textsf{\color{#3a293e}ᵛⁱˣ/ᵛⁱˣˣⁱᵉ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ˢⁱᵈ/ᵏᵃⁱ}}$
 </p>
