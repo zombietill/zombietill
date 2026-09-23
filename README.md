@@ -9,12 +9,12 @@ ${\textsf{\color{#422748}" ᵗʰᵃⁿᵏ ʸᵒᵘ ᶠᵒʳ ᵇᵉⁱⁿᵍ ᵗ�
 <p align="center">
 ${\textsf{\color{#5a3450}ᵛⁱˣ/ᵛⁱˣˣⁱᵉ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ˢⁱᵈ/ᵏᵃⁱ}}$
 </p>
-<p align="center">q  q
+<p align="center">  
 ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 </p>
 <img width="2048" alt="image" src="https://github.com/user-attachments/assets/9ea29af2-01ff-478f-82ad-40698ee78418" />
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/3083203f-8efa-4b7c-b06b-d849bd079041" />
-<img width="448" alt="92bf9582-e910-4646-a5fb-3c363986757e" src="https://github.com/user-attachments/assets/2574712d-1548-49f3-b6a5-eb3de6923202" />
+<img width="448" alt="a0de86c0-85e4-47c9-baf5-575fe246757f" src="https://github.com/user-attachments/assets/eda4e7f1-b0a9-421c-973e-7a048e255414" />
 
 
 
