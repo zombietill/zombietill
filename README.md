@@ -6,4 +6,7 @@
 <p align="center">
 ${\textsf{\color{#422748}ᵛⁱˣ/ᵛⁱˣˣⁱᵉ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ˢⁱᵈ/ᵏᵃⁱ}}$
 </p>
+<p align="center">
+${\textsf{\color{#5a3450}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
+</p>
 <img width="2048" alt="image" src="https://github.com/user-attachments/assets/9ea29af2-01ff-478f-82ad-40698ee78418" />
