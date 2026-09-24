@@ -23,6 +23,9 @@ ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 <p align="right">
 <img width="250"  alt="f7f45d49-7efa-4236-b55b-2f33be484bd7" src="https://github.com/user-attachments/assets/d42f12ea-c437-41fd-80c1-0f5524d0fa71" />
 </p>
+<p align="center">  
+${\textsf{\color{#422748}ⁱᵐ ᵃ ᵃʷᵏʷᵃʳᵈ ᵖᵉʳˢᵒⁿ, ˢᵒ ᵖˡᵉᵃˢᵉ ᵇᵉ ᵖᵃᵗⁱᵉⁿᵗ!}}$
+</p>
 <p align="right">  
 ${\textsf{\color{#5a3450}" ʷᵉ ʷᵉʳᵉ ᶠⁱⁿᵉ ᴵ ᵍᵘᵉˢˢ, ᵗʰᵃᵗ'ˢ ᵃᵇᵒᵘᵗ ⁱᵗ. "}}$
 </p>
