@@ -20,6 +20,9 @@ ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 <p align="left">
 <img width="248" alt="a173b98a-1bf0-496d-9ec3-71a8033ba9ae (1)" src="https://github.com/user-attachments/assets/c7ee0b85-2034-4569-b020-174b8229e29d" />
 </p>
+<p align="right">
+<img width="250"  alt="f7f45d49-7efa-4236-b55b-2f33be484bd7" src="https://github.com/user-attachments/assets/d42f12ea-c437-41fd-80c1-0f5524d0fa71" />
+</p>
 
 <p align="right">
 <img width="228"  alt="9ffc2298-02cb-4e98-a567-ecffb3d4ab75" src="https://github.com/user-attachments/assets/f24a0a17-ddd8-43f3-b441-164e49f6ed54" />
