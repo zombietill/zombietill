@@ -27,7 +27,7 @@ ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 ${\textsf{\color{#422748}ⁱᵐ ᵃ ᵃʷᵏʷᵃʳᵈ ᵖᵉʳˢᵒⁿ, ˢᵒ ᵖˡᵉᵃˢᵉ ᵇᵉ ᵖᵃᵗⁱᵉⁿᵗ!}}$
 </p>
 <p align="right">
-<img width="854" alt="46e87917-bbca-46ce-9eff-33c6f67f45e1" src="https://github.com/user-attachments/assets/9e8e7c74-c470-431c-9b48-8750a70886d1" />
+<img width="254" alt="46e87917-bbca-46ce-9eff-33c6f67f45e1" src="https://github.com/user-attachments/assets/9e8e7c74-c470-431c-9b48-8750a70886d1" />
 </p>
 <p align="right">  
 ${\textsf{\color{#5a3450}" ʷᵉ ʷᵉʳᵉ ᶠⁱⁿᵉ ᴵ ᵍᵘᵉˢˢ, ᵗʰᵃᵗ'ˢ ᵃᵇᵒᵘᵗ ⁱᵗ. "}}$
