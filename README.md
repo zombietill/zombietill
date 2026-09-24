@@ -44,6 +44,9 @@ ${\textsf{\color{#5a3450}" ⁱᵗ ᵐᵉᵃⁿˢ ᵒᵘ'ʳᵉ ᵃ ⁱᵈⁱᵒ�
 <p align="left">  
 ${\textsf{\color{#925d72}♡}}$
 </p>
+<p align="center">
+<img width="248" alt="c6bb4f7e-d2d9-4406-9b5a-d3573013a0cc" src="https://github.com/user-attachments/assets/df0c539a-eb16-4fee-8f25-f6dee2192fe0" />
+</p>
 <p align="right">
 <img width="228"  alt="9ffc2298-02cb-4e98-a567-ecffb3d4ab75" src="https://github.com/user-attachments/assets/f24a0a17-ddd8-43f3-b441-164e49f6ed54" />
 </p>
