@@ -50,6 +50,7 @@ ${\textsf{\color{#925d72}♡}}$
 <p align="right">
 <img width="228"  alt="9ffc2298-02cb-4e98-a567-ecffb3d4ab75" src="https://github.com/user-attachments/assets/f24a0a17-ddd8-43f3-b441-164e49f6ed54" />
 </p>
+<img width="2048" alt="72f17d9d-df1c-4c12-aa65-46b46f75195a" src="https://github.com/user-attachments/assets/69ee9d96-a19d-4e7b-86cc-5b1185797c74" />
 
 
 
