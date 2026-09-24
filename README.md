@@ -31,7 +31,7 @@ ${\textsf{\color{#925d72}♡}}$
 </p>
 <p align="left">
 <img width="250" alt="81337be3-f01b-4a31-b8c5-b509a6487954" src="https://github.com/user-attachments/assets/9d039d77-faa2-4d7b-a051-31fb1b436858" />
-  <p align="right">  
+  <p align="left">  
 ${\textsf{\color{#5a3450}" ⁱᵗ ᵐᵉᵃⁿˢ ʸᵒᵘ'ʳᵉ ᵃ ⁱᵈⁱᵒᵗ, ⁱᵈⁱᵒᵗ. "}}$
 </p>
 <p align="right">
