@@ -26,6 +26,9 @@ ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 <p align="center">  
 ${\textsf{\color{#422748}ⁱᵐ ᵃ ᵃʷᵏʷᵃʳᵈ ᵖᵉʳˢᵒⁿ, ˢᵒ ᵖˡᵉᵃˢᵉ ᵇᵉ ᵖᵃᵗⁱᵉⁿᵗ!}}$
 </p>
+<p align="right">
+<img width="854" alt="46e87917-bbca-46ce-9eff-33c6f67f45e1" src="https://github.com/user-attachments/assets/9e8e7c74-c470-431c-9b48-8750a70886d1" />
+</p>
 <p align="right">  
 ${\textsf{\color{#5a3450}" ʷᵉ ʷᵉʳᵉ ᶠⁱⁿᵉ ᴵ ᵍᵘᵉˢˢ, ᵗʰᵃᵗ'ˢ ᵃᵇᵒᵘᵗ ⁱᵗ. "}}$
 </p>
@@ -35,7 +38,7 @@ ${\textsf{\color{#925d72}♡}}$
 <p align="left">
 <img width="250" alt="81337be3-f01b-4a31-b8c5-b509a6487954" src="https://github.com/user-attachments/assets/9d039d77-faa2-4d7b-a051-31fb1b436858" />
   <p align="left">  
-${\textsf{\color{#5a3450}" ⁱᵗ ᵐᵉᵃⁿˢ ʸᵒᵘ'ʳᵉ ᵃ ⁱᵈⁱᵒᵗ, ⁱᵈⁱᵒᵗ. "}}$
+${\textsf{\color{#5a3450}" ⁱᵗ ᵐᵉᵃⁿˢ ᵒᵘ'ʳᵉ ᵃ ⁱᵈⁱᵒᵗ, ⁱᵈⁱᵒᵗ. "}}$
 </p>
 <p align="left">  
 ${\textsf{\color{#925d72}♡}}$
