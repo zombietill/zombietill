@@ -26,8 +26,8 @@ ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 <p align="right">  
 ${\textsf{\color{#5a3450}" ʷᵉ ʷᵉʳᵉ ᶠⁱⁿᵉ ᴵ ᵍᵘᵉˢˢ, ᵗʰᵃᵗ'ˢ ᵃᵇᵒᵘᵗ ⁱᵗ. "}}$
 </p>
-</p>
-.
+<p align="left">
+<img width="250" alt="81337be3-f01b-4a31-b8c5-b509a6487954" src="https://github.com/user-attachments/assets/9d039d77-faa2-4d7b-a051-31fb1b436858" />
 </p>
 <p align="right">
 <img width="228"  alt="9ffc2298-02cb-4e98-a567-ecffb3d4ab75" src="https://github.com/user-attachments/assets/f24a0a17-ddd8-43f3-b441-164e49f6ed54" />
