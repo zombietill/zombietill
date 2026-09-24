@@ -23,7 +23,7 @@ ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 <p align="right"
 <img width="254" alt="46e87917-bbca-46ce-9eff-33c6f67f45e1" src="https://github.com/user-attachments/assets/b4e17f06-6791-4714-96e0-5786c4f34105" />
 </p>
-<p align="right">
+<p align="right"
 <img width="250" alt="f7f45d49-7efa-4236-b55b-2f33be484bd7" src="https://github.com/user-attachments/assets/d42f12ea-c437-41fd-80c1-0f5524d0fa71" />
 </p>
 <p align="center">  
