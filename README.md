@@ -34,6 +34,9 @@ ${\textsf{\color{#925d72}♡}}$
   <p align="left">  
 ${\textsf{\color{#5a3450}" ⁱᵗ ᵐᵉᵃⁿˢ ʸᵒᵘ'ʳᵉ ᵃ ⁱᵈⁱᵒᵗ, ⁱᵈⁱᵒᵗ. "}}$
 </p>
+<p align="left">  
+${\textsf{\color{#925d72}♡}}$
+</p>
 <p align="right">
 <img width="228"  alt="9ffc2298-02cb-4e98-a567-ecffb3d4ab75" src="https://github.com/user-attachments/assets/f24a0a17-ddd8-43f3-b441-164e49f6ed54" />
 </p>
