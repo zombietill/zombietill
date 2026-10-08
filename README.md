@@ -7,9 +7,6 @@
 <img width="350"  alt="d55ba9ad-84d4-4012-84e6-328077e45a9d" src="https://github.com/user-attachments/assets/e86a134d-e21b-4d81-b42a-65b4abacdc97" />
 </p>
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/eaa219c8-772e-435f-b398-bd485bcaf4b7" />
-</p>
-<p align="center">
 ${\textsf{\color{#422748}" ᵗʰᵃⁿᵏ ʸᵒᵘ ᶠᵒʳ ᵇᵉⁱⁿᵍ ᵗʰᵉ ᵛⁱᶜᵗⁱᵐ ᵒᶠ ᵐʸ ˢʰᵃˡˡᵒʷ ᵉᵐᵒᵗⁱᵒⁿˢ. "}}$
 </p>
 <p align="center">
@@ -17,6 +14,9 @@ ${\textsf{\color{#5a3450}ᵛⁱˣ/ᵛⁱˣˣⁱᵉ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ˢ�
 </p>
 <p align="center">  
 ${\textsf{\color{#925d72}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
+</p>
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/eaa219c8-772e-435f-b398-bd485bcaf4b7" />
 </p>
 <img width="2048" alt="de5fedc0-bb48-4c89-93e7-b75416848823" src="https://github.com/user-attachments/assets/1c204890-92f0-40d7-9aa4-75863f2279ee" />
 
