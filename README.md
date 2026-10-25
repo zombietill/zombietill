@@ -4,7 +4,7 @@
 <img width="200"  alt="11ec653e-c39c-463a-ac7b-877937ea80a3" src="https://github.com/user-attachments/assets/8c814cd3-c61d-48ce-a242-2bbdb9c8b126" />
 </p>
 <p align="center">
-<img width="120"  alt="b5f801e3-a8cd-4148-a7be-07b6996bd6cb" src="https://github.com/user-attachments/assets/c43ea1d4-2048-49e4-809f-5c693207c7bd" />
+<img width="100"  alt="b5f801e3-a8cd-4148-a7be-07b6996bd6cb" src="https://github.com/user-attachments/assets/c43ea1d4-2048-49e4-809f-5c693207c7bd" />
 </p>
 <p align="center">
 ${\textsf{\color{#75697D}" ⁱ ʷᵃⁿᵗ ᵗᵒ ˢᵖᵉⁿᵈ ˢᵒᵐᵉ ᵗⁱᵐᵉ ᵃᵗ ᵗʰᵉ ᵇᵒᵗᵗᵒᵐ ᵒᶠ ᵗʰᵉ ˢᵉᵃ... "}}$
@@ -14,4 +14,10 @@ ${\textsf{\color{#8484A0}ᵛⁱˣ/ˢⁱᵈ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ᵏᵃⁱ}}$
 </p>
 <p align="center">
 ${\textsf{\color{#97ABC1}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
+</p>
+<p align="center">
+<img width="384"  alt="b49e3762-0162-42fb-b090-71c22b6c85ff" src="https://github.com/user-attachments/assets/e5dd94ac-6a99-47ef-a4cc-5ed40485386a" />
+</p>
+<p align="left">
+<img width="150" alt="398fbef4-0940-41e0-93e7-6be7e429698c" src="https://github.com/user-attachments/assets/f97a9d53-7d32-4137-a8da-9546607d4c06" />
 </p>
