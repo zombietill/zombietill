@@ -23,3 +23,9 @@ ${\textsf{\color{#97ABC1}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 <p align="left">
 <img width="150" alt="398fbef4-0940-41e0-93e7-6be7e429698c" src="https://github.com/user-attachments/assets/f97a9d53-7d32-4137-a8da-9546607d4c06" />
 </p>
+<p align="center">
+${\textsf{\color{#8484A0}ʰⁱ ! ᵘˢᵘᵃˡˡʸ ⁱⁿᵗ ᶠʳᵉᵉˡʸ, ⁱᵐ ᵒᶠᶠᵗᵃᵇ ᵃ ˡᵒᵗ...}}$
+</p>
+<p align="center">
+${\textsf{\color{#75697D}ᶜᵘᵈˢ ᵃʳᵉ ˢᵗʳⁱᶜᵗˡʸ ᶠʳⁱᵉⁿᵈˢ ᵒⁿˡʸ. ᵃᶠᶠᵉᶜᵗⁱᵒⁿ ᵃⁿᵈ ᵉˣᵖʳᵉˢˢⁱᵒⁿ ᵒᶠ ᵍʳᵃᵗᵉᶠᵘˡⁿᵉˢˢ ᵗᵒʷᵃʳᵈˢ ᵐᵉ ᵐᵃᵏᵉˢ ᵐᵉ ᵘⁿᶜᵒᵐᶠ.}}$
+</p>
