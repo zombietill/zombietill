@@ -33,5 +33,8 @@ ${\textsf{\color{#8484A0}ʰⁱ ! ᵘˢᵘᵃˡˡʸ ⁱⁿᵗ ᶠʳᵉᵉˡʸ, �
 ${\textsf{\color{#75697D}ᶜᵘᵈˢ ᵃʳᵉ ˢᵗʳⁱᶜᵗˡʸ ᶠʳⁱᵉⁿᵈˢ ᵒⁿˡʸ. ᵃᶠᶠᵉᶜᵗⁱᵒⁿ ᵃⁿᵈ ᵉˣᵖʳᵉˢˢⁱᵒⁿ ᵒᶠ ᵍʳᵃᵗᵉᶠᵘˡⁿᵉˢˢ ᵗᵒʷᵃʳᵈˢ ᵐᵉ ᵐᵃᵏᵉˢ ᵐᵉ ᵘⁿᶜᵒᵐᶠ.}}$
 </p>
 <p align="center">
+${\textsf{\color{#97ABC1}♡}}$
+</p>
+<p align="center">
 <img width="150" alt="87c88f5e-77ac-4fac-9be1-4b5ddb3a1ea8" src="https://github.com/user-attachments/assets/10dca8f2-802a-43ca-91af-e849f3ecd647" />
 </p>
