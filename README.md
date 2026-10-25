@@ -22,6 +22,9 @@ ${\textsf{\color{#97ABC1}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 </p>
 <p align="left">
 <img width="150" alt="398fbef4-0940-41e0-93e7-6be7e429698c" src="https://github.com/user-attachments/assets/f97a9d53-7d32-4137-a8da-9546607d4c06" />
+  <p align=center">
+<img width="340" alt="87c88f5e-77ac-4fac-9be1-4b5ddb3a1ea8" src="https://github.com/user-attachments/assets/10dca8f2-802a-43ca-91af-e849f3ecd647" />
+  </p>
 </p>
 <p align="center">
 ${\textsf{\color{#8484A0}ʰⁱ ! ᵘˢᵘᵃˡˡʸ ⁱⁿᵗ ᶠʳᵉᵉˡʸ, ⁱᵐ ᵒᶠᶠᵗᵃᵇ ᵃ ˡᵒᵗ...}}$
