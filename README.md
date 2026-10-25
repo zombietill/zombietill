@@ -38,3 +38,4 @@ ${\textsf{\color{#97ABC1}♡}}$
 <p align="center">
 <img width="150" alt="87c88f5e-77ac-4fac-9be1-4b5ddb3a1ea8" src="https://github.com/user-attachments/assets/10dca8f2-802a-43ca-91af-e849f3ecd647" />
 </p>
+<img width="1329" alt="b31ee40b-dee7-4eb8-8fdd-7595548c2959" src="https://github.com/user-attachments/assets/061bc8c5-74dc-4b72-811f-77a7e07abce3" />
