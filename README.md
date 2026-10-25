@@ -4,6 +4,9 @@
 <img width="200"  alt="11ec653e-c39c-463a-ac7b-877937ea80a3" src="https://github.com/user-attachments/assets/8c814cd3-c61d-48ce-a242-2bbdb9c8b126" />
 </p>
 <p align="center">
+<img width="50"  alt="b5f801e3-a8cd-4148-a7be-07b6996bd6cb" src="https://github.com/user-attachments/assets/c43ea1d4-2048-49e4-809f-5c693207c7bd" />
+</p>
+<p align="center">
 ${\textsf{\color{#75697D}" ⁱ ʷᵃⁿᵗ ᵗᵒ ˢᵖᵉⁿᵈ ˢᵒᵐᵉ ᵗⁱᵐᵉ ᵃᵗ ᵗʰᵉ ᵇᵒᵗᵗᵒᵐ ᵒᶠ ᵗʰᵉ ˢᵉᵃ... "}}$
 </p>
 <p align="center">
