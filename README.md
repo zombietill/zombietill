@@ -1,5 +1,5 @@
 <img width="2048" alt="5ecd3eaf-0f77-4d09-9798-8a2006743521" src="https://github.com/user-attachments/assets/2fa1aea1-fd74-4a26-9cf1-f9b62bd971e1" />
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzombietill&label=fishes%20resting%20in%20the%20sea&labelColor=%231f1b1c&countColor=%2384a4d6)
 <p align="center">
 <img width="200"  alt="11ec653e-c39c-463a-ac7b-877937ea80a3" src="https://github.com/user-attachments/assets/8c814cd3-c61d-48ce-a242-2bbdb9c8b126" />
 </p>
