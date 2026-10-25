@@ -21,12 +21,8 @@ ${\textsf{\color{#97ABC1}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 <img width="384"  alt="b49e3762-0162-42fb-b090-71c22b6c85ff" src="https://github.com/user-attachments/assets/e5dd94ac-6a99-47ef-a4cc-5ed40485386a" />
 </p>
 <p align="left">
-<img width="150" alt="398fbef4-0940-41e0-93e7-6be7e429698c" src="https://github.com/user-attachments/assets/f97a9d53-7d32-4137-a8da-9546607d4c06" />
-  <p align=center">
-<img width="150" alt="87c88f5e-77ac-4fac-9be1-4b5ddb3a1ea8" src="https://github.com/user-attachments/assets/10dca8f2-802a-43ca-91af-e849f3ecd647" />
-</p>
-<p align="right">
-  <img width="150"  alt="f9787d83-99c0-4ac3-b601-272de610b480" src="https://github.com/user-attachments/assets/724d393d-a8db-43d6-94d3-7c50357dc92d" />
+<img width="150" alt="398fbef4-0940-41e0-93e7-6be7e429698c" src="https://github.com/user-attachments/assets/f97a9d53-7d32-4137-a8da-9546607d4c06" /><p align=center">
+<img width="150" alt="87c88f5e-77ac-4fac-9be1-4b5ddb3a1ea8" src="https://github.com/user-attachments/assets/10dca8f2-802a-43ca-91af-e849f3ecd647" /></p><p align="right"><img width="150"  alt="f9787d83-99c0-4ac3-b601-272de610b480" src="https://github.com/user-attachments/assets/724d393d-a8db-43d6-94d3-7c50357dc92d" />
 </p>
 </p>
 <p align="center">
